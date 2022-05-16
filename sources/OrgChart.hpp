@@ -21,6 +21,7 @@ namespace ariel{
         vector<string>::iterator begin_level_order();
         vector<string>::iterator end_level_order();
         vector<string>::iterator begin_reverse_order();
+        vector<string>::iterator reverse_order();
         vector<string>::iterator end_reverse_order();
         vector<string>::iterator begin_preorder();
         vector<string>::iterator end_preorder();

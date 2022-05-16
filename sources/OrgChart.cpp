@@ -48,6 +48,10 @@ namespace ariel{
             vector<string> ans;
             return ans.begin();
         }
+        vector<string>::iterator OrgChart::reverse_order(){
+            vector<string> ans;
+            return ans.begin();
+        }
 
         vector<string>::iterator OrgChart::begin_preorder(){
             vector<string> ans;
